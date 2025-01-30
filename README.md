@@ -33,7 +33,7 @@ This app integrates with the **Airtable API** to fetch and manage data related t
 - **Directors** 🎬 → Fetches details about directors and their works  
 - **Users** 👤 → Manages user authentication and profiles  
 
-🔗 **For more details, refer to the [Airtable API Documentation](https://airtable.com/)**  
+🔗 **For more details, refer to the [Airtable API Documentation]([https://airtable.com/](https://api.airtable.com/v0/appsfcB6YESLj4NCN/))**  
 
 ---
 
