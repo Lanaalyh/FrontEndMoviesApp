@@ -25,16 +25,16 @@ The **Movie App** is a **SwiftUI-based** application designed for **browsing and
 - **Airtable API**: Fetching and managing movie, actor, director, and user data  
 
 ---
+🔗 API Integration
 
-## 🔗 API Integration  
-This app integrates with the **Airtable API** to fetch and manage data related to:  
-- **Movies** 🎬 → Retrieves detailed movie information  
-- **Actors** 🎭 → Provides information about actors  
-- **Directors** 🎬 → Fetches details about directors and their works  
-- **Users** 👤 → Manages user authentication and profiles  
+This app integrates with the Airtable API to fetch and manage data related to:
 
-🔗 **For more details, refer to the [Airtable API Documentation]([https://airtable.com/](https://api.airtable.com/v0/appsfcB6YESLj4NCN/))**  
+- Movies 🎬 → Retrieves detailed movie information
+- Actors 🎭 → Provides information about actors
+- Directors 🎬 → Fetches details about directors and their works
+- Users 👤 → Manages user authentication and profiles
 
+🔗 For more details, refer to the [Airtable API Documentation](https://airtable.com/api).
 ---
 
 ## 🏗️ API Implementation  
